@@ -3,8 +3,8 @@
 	int main(){
 	float x;
 	scanf("%f",&x);
-	printf("%f\x",x*x);
-	printf("%f\x",x*x*x);
-	printf("%f\x",x*x*x*x);
+	printf("%f\n",x*x);
+	printf("%f\n",x*x*x);
+	printf("%f\n",x*x*x*x);
 	return 25;
 }
